@@ -68,7 +68,9 @@ pip install -r requirements.txt
 
 ## Author
 Phạm Minh Ánh - anyspham2703@gmail.com
+
 Trần Duy Quang - tranduyquang260@gmail.com
+
 Đặng Bùi Minh Hiếu - danghieu05062006@gmail.com
 
 MIT License
